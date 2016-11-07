@@ -1,0 +1,8 @@
+---
+packages:
+- git
+- gpg2
+casks:
+- atom
+- alfred
+
